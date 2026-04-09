@@ -1,0 +1,1 @@
+printf("Moedas da sala 1: ");
